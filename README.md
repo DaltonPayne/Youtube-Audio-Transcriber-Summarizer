@@ -14,41 +14,41 @@ This project provides a Python script that downloads the audio of a given YouTub
 
 1. Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/YOUR_USERNAME/Youtube-Audio-Transcriber-Summarizer.git
-\`\`\`
+```
 
 2. Change into the project directory:
 
-\`\`\`bash
+```bash
 cd Youtube-Audio-Transcriber-Summarizer
-\`\`\`
+```
 
 3. Create a virtual environment (optional, but recommended):
 
-\`\`\`bash
+```bash
 python -m venv venv
-\`\`\`
+```
 
 4. Activate the virtual environment:
 
 - On Windows:
 
-\`\`\`bash
+```bash
 venv\Scripts\activate
-\`\`\`
+```
 
 - On Linux/Mac:
 
-\`\`\`bash
+```bash
 source venv/bin/activate
-\`\`\`
+```
 
 5. Install the required packages:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
@@ -56,9 +56,9 @@ pip install -r requirements.txt
 
 2. Run the script:
 
-\`\`\`bash
+```bash
 python transcribe_summarize.py
-\`\`\`
+```
 
 3. Enter a YouTube video URL when prompted.
 
