@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Replace `YOUR_API_KEY_HERE` in the `transcribe_summarize.py` file with your OpenAI API key.
+1. Replace `YOUR_API_KEY_HERE` in the `transcribe.py` file with your OpenAI API key.
 
 2. Run the script:
 
